@@ -1,5 +1,6 @@
-# Brawl Stars
-Bienvenidos al mejor juego tanto de móvil que de Supercell. Es el juego actualmente top del mundo. Lo juegan jugadores profesionales
+# BRAWL STAR
+Bienvenidos al mejor juego tanto de móvil que de Supercell.
+El juego esta entre los top 3 del mundo. Lo juegan jugadores profesionales
 como Lenain, Tensai, Ikaoss, GuilleVGX, Symantec y muchísimos más.
 
 ![image](https://github.com/user-attachments/assets/29dbaa66-076c-4d6f-b52e-5b59afb0f7ab)
@@ -11,8 +12,10 @@ como Lenain, Tensai, Ikaoss, GuilleVGX, Symantec y muchísimos más.
 
 
 
-# COMO ES EL JUEGO?
-El juego és global lo pueden jugar todos los países, tiene mecánicas fáciles, son **5 botones**:
+# COMO ES EL JUEGO Y QUIEN LOPUEDE JUGAR?
+El juego es 2D, es como shooters con, lo pueden
+jugar todos los países porque el juego es global
+tiene mecánicas fáciles, son **5 botones**:
 - **Joystic**
 - **Ulti**
 - **Gadget**
@@ -48,21 +51,26 @@ has ganado la partida. Por ejemplo, si ganas con Cordelius las copas se irán en
 ![image](https://github.com/user-attachments/assets/beb7dc7d-5ae6-442f-843c-d16eab3d9308)
 
 
-# SKINS, NIVELES, REFUERZOS Y CALIDAD.
+# SKINS, NIVELES, EQUIPAMIENTOS Y CALIDAD.
 
 Cada brawler del juego tienen sus propias skins, pueden ser buenas o malas depende de la persona. Los niveles maximo son hasta el 11,
-ya despues de eso ya no se pueden mejorar. Los refuerzon son para que los brawlers tengan un mejor uso que son
-los estelares, gadgets, refuerzos (6) y las hypercargas. Los 84 brawlers estan se parados por calidad: 
-- Especial
-- Superespecial
-- Epico
-- Mítico
-- Legendario
+ya despues de eso ya no se pueden mejorar. Los equipamientos son para que los brawlers tengan un mejor uso que son
+los estelares, gadgets, refuerzos (6) y las hypercargas. Los 83 brawlers estan se parados por calidad: 
+- **Especial**
+- **Superespecial**
+- **Epico**
+- **Mítico**
+- **Legendario**
 
 ![th (1)](https://github.com/user-attachments/assets/80c18d3f-886b-4d64-9550-9924531e708f)
 ![th (2)](https://github.com/user-attachments/assets/f172d3ef-b422-49e8-80b3-1c677fef19a3)
 ![image](https://github.com/user-attachments/assets/6dea403c-c950-46f3-addc-f70a518e3594)
 ![th (3)](https://github.com/user-attachments/assets/18139aed-26fd-45fe-9d9c-0fae25008982)
+
+# COLABORACIONES
+En Brawl Star cada dos meses hay colaboraciones con el juego. Por ejemplo, colaboración con **Godzilla**, con **Mr Beast**,
+con **Bob Esponja**, **Baby Shark** y muchísimos más.
+
 
 
 
