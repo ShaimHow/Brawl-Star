@@ -1,5 +1,5 @@
 # BRAWL STAR
-Bienvenidos al mejor juego tanto de móvil que de Supercell.
+Este es el mejor juego tanto de móvil que de Supercell.
 El juego esta entre los top 3 del mundo. Lo juegan jugadores profesionales
 como Lenain, Tensai, Ikaoss, GuilleVGX, Symantec y muchísimos más.
 
@@ -12,10 +12,10 @@ como Lenain, Tensai, Ikaoss, GuilleVGX, Symantec y muchísimos más.
 
 
 
-# COMO ES EL JUEGO Y QUIEN LOPUEDE JUGAR?
-El juego es 2D, es como shooters con, lo pueden
-jugar todos los países porque el juego es global
-tiene mecánicas fáciles, son **5 botones**:
+# COMO ES EL JUEGO Y QUIEN LOS PUEDE JUGAR?
+El juego es 2D, es como shooters con armas, lo pueden
+jugar todos los países porque el juego es global.
+Tiene mecánicas fáciles que son **5 botones**:
 - **Joystic**
 - **Ulti**
 - **Gadget**
@@ -31,7 +31,8 @@ tiene mecánicas fáciles, son **5 botones**:
 
 # COMO SE JUEGA?
 Hay 83 brawlers (personajes) Tienes que elegir uno y tienes muchos modos para jugar, por ejemplo, supervivencia, atrapa gemas, balón brawl i otros más.
-Los equipos son de dos o tres dependiendo del mapa. Tendrás que tener el mejor combo para ganar.
+Los equipos son de dos o tres dependiendo del mapa. Tendrás que tener el mejor combo para ganar. Si quieres jugar solo, solo pudes jugar en supervivencia
+o en otros mapas solo que te van a tocar jugadores randoms.
 
 ![tres](https://github.com/user-attachments/assets/13a06a5c-9762-4fb5-8ae1-fa9ef55126c5)
 ![Sense títol](https://github.com/user-attachments/assets/a45b2a74-0100-4b24-8a58-d06eeab4463a)
@@ -42,7 +43,8 @@ Hay 6 modos de mapa en los que se trata de subir copas, y por el otro lado está
 Mientras más subas en competitivo, mejores rivales vas a tener.
 
 ![th](https://github.com/user-attachments/assets/eeb6be27-2388-494e-bcb8-e21231389693)
-![image](https://github.com/user-attachments/assets/6214677c-ecd3-4e55-a097-6c72f91d2387)
+![Screenshot_2024-09-22-13-25-15-559-edit_com supercell brawlstars](https://github.com/user-attachments/assets/9f111e20-dae0-4aea-b8f4-e7962932faeb)
+
 
 # DONDE VAN LAS COPAS?
 Las copas que vayas ganando en las partidas se te van en el brawler la cual
@@ -55,7 +57,7 @@ has ganado la partida. Por ejemplo, si ganas con Cordelius las copas se irán en
 
 Cada brawler del juego tienen sus propias skins, pueden ser buenas o malas depende de la persona. Los niveles maximo son hasta el 11,
 ya despues de eso ya no se pueden mejorar. Los equipamientos son para que los brawlers tengan un mejor uso que son
-los estelares, gadgets, refuerzos (6) y las hypercargas. Los 83 brawlers estan se parados por calidad: 
+las estelares, gadgets, refuerzos (6) y las hypercargas. Los 83 brawlers estan se parados por calidad: 
 - **Especial**
 - **Superespecial**
 - **Epico**
@@ -69,7 +71,15 @@ los estelares, gadgets, refuerzos (6) y las hypercargas. Los 83 brawlers estan s
 
 # COLABORACIONES
 En Brawl Star cada dos meses hay colaboraciones con el juego. Por ejemplo, colaboración con **Godzilla**, con **Mr Beast**,
-con **Bob Esponja**, **Baby Shark** y muchísimos más.
+con **Bob Esponja**, **Baby Shark** y muchísimos más. Suelen haber eventos con buenas recompensas.
+Te puden regalar skins, monedas, puntos de fuerza incluso te pueden regalar un brawler.
+
+![image](https://github.com/user-attachments/assets/94431ebc-3eb9-4467-ae6a-7398c9a47e91)
+![image](https://github.com/user-attachments/assets/671c881a-fd84-4e9f-af9e-75c89a1a50bb)
+![image](https://github.com/user-attachments/assets/1051236c-814e-4589-981f-3ac25b4a351f)
+
+
+
 
 
 
